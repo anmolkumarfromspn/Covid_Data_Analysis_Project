@@ -26,6 +26,6 @@ queries used to derive insights.
 
 Etc. This part was done in Excel. 
 
-4. “Project_dashboard.xlsx” file contains the summarised Dashboard. There are multiple 
+4. “Project_dashboard.xlsx” file contains the summarised Dashboard. There are three data sheets - DATA 1, DATA 2, and DATA 3 in this excel file which are source data to create dashboards and there are multiple 
 
 dashboards in this file which are interactive. 
