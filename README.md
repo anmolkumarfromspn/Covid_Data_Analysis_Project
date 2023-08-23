@@ -31,3 +31,24 @@ Etc. This part was done in Excel.
 dashboards in this file which are interactive. 
 
 5. "Project_Presentation.pptx" is the final presentation for this preject which concludes all insides derived after analyzing this data.
+
+Final Dashboards - 
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/90475c52-681f-4981-a9b7-48856eedc76f)
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/847bf0e0-e4c5-4b40-8cc5-1412cebe47ad)
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/d89c2a0f-c0fe-4a29-9e1c-76defc3444d5)
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/2763a25e-c6bd-4246-8e61-06cf05981ac8)
+
+Tools Used: - 
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/66ef775d-9f43-4ea1-b519-e8fd98f19ae4)
+
+*Contact Mail: aktwenty5@gmail.com*
+*Linkedin: https://bit.ly/45XlMKn*
+
+
+![image](https://github.com/anmolkumarfromspn/Christmas-Sales-Analysis/assets/128449996/58a5eea1-07ac-459c-bd55-e5748181530b)
+
