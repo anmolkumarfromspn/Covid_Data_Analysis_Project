@@ -1,5 +1,15 @@
 # Covid_Data_Analysis_Project
 
+Dashboards - 
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/90475c52-681f-4981-a9b7-48856eedc76f)
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/847bf0e0-e4c5-4b40-8cc5-1412cebe47ad)
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/d89c2a0f-c0fe-4a29-9e1c-76defc3444d5)
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/2763a25e-c6bd-4246-8e61-06cf05981ac8)
+
 Two Covid Datasets (JSON format) were used to extract data.
 
 Dataset - 1: -
@@ -31,16 +41,6 @@ Etc. This part was done in Excel.
 dashboards in this file which are interactive. 
 
 5. "Project_Presentation.pptx" is the final presentation for this preject which concludes all insides derived after analyzing this data.
-
-Final Dashboards - 
-
-![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/90475c52-681f-4981-a9b7-48856eedc76f)
-
-![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/847bf0e0-e4c5-4b40-8cc5-1412cebe47ad)
-
-![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/d89c2a0f-c0fe-4a29-9e1c-76defc3444d5)
-
-![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/2763a25e-c6bd-4246-8e61-06cf05981ac8)
 
 Tools Used: - 
 
