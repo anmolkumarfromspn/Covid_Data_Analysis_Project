@@ -1,4 +1,6 @@
-# Covid_Data_Analysis_Project
+# Covid_Data_Analysis_Project (Excel Dashboard)
+
+Project Objective - The objective of this Excel dashboard project is to perform comprehensive COVID-19 data analysis and visualization to provide valuable insights into the pandemic's impact. Excel dashboard must contain slicers and visually appealing charts or tables with appropriate KPIs.
 
 Dashboards - 
 
