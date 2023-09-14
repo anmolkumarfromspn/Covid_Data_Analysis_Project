@@ -43,27 +43,23 @@ In these datasets there were features like states, tested, positive cases, reviv
 
 ## Insights
 
-India experienced a significant number of COVID-19 cases, making it one of the countries with the highest case counts in the world.
-The number of COVID-19-related deaths in India was also substantial.
-Several variants of the virus that causes COVID-19, including the Delta variant, were identified in India.
-The Delta variant was associated with increased transmissibility and raised concerns worldwide.
-India implemented various lockdowns and restrictions at different times to control the spread of the virus.
-These measures had economic and social impacts but were considered necessary to curb the spread of the virus.
-Widespread testing and contact tracing efforts were undertaken to identify and isolate cases.
-Testing centers and mobile testing units were set up across the country.
-Public awareness campaigns were launched to educate people about COVID-19 prevention measures, including mask-wearing and hand hygiene.
-India faced unique challenges in rural areas, including limited healthcare infrastructure and vaccine distribution difficulties.
-India received international assistance, including medical supplies and vaccines, as part of global efforts to combat the pandemic.
+1. India experienced a significant number of COVID-19 cases, making it one of the countries with the highest case counts in the world.
+2. The number of COVID-19-related deaths in India was also substantial.
+3. Several variants of the virus that causes COVID-19, including the Delta variant, were identified in India.
+4. The Delta variant was associated with increased transmissibility and raised concerns worldwide.
+5. India implemented various lockdowns and restrictions at different times to control the spread of the virus.
+6. These measures had economic and social impacts but were considered necessary to curb the spread of the virus.
+7. Widespread testing and contact tracing efforts were undertaken to identify and isolate cases.
+8. Testing centers and mobile testing units were set up across the country.
+9. Public awareness campaigns were launched to educate people about COVID-19 prevention measures, including mask-wearing and hand hygiene.
+10. India faced unique challenges in rural areas, including limited healthcare infrastructure and vaccine distribution difficulties.
+11. India received international assistance, including medical supplies and vaccines, as part of global efforts to combat the pandemic.
 
 ## Tools Used
 
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/66ef775d-9f43-4ea1-b519-e8fd98f19ae4)
 
 *Contact Mail: aktwenty5@gmail.com*
+
 *Linkedin: https://bit.ly/45XlMKn*
-
-
-![image](https://github.com/anmolkumarfromspn/Christmas-Sales-Analysis/assets/128449996/58a5eea1-07ac-459c-bd55-e5748181530b)
-
-....
 
