@@ -1,8 +1,37 @@
 # Covid_Data_Analysis_Project (Excel Dashboard)
 
-Project Objective - The objective of this Excel dashboard project is to perform comprehensive COVID-19 data analysis and visualization to provide valuable insights into the pandemic's impact. Excel dashboard must contain slicers and visually appealing charts or tables with appropriate KPIs.
+## Project Objective
 
-Dashboards - 
+The objective of this Excel dashboard project is to perform comprehensive COVID-19 data analysis and provide meaningful insights through visualizations with the help of an interactive Excel Dashboard into the pandemic's impact. Excel dashboard must contain slicers and visually appealing charts or tables with appropriate KPIs using which user can interact with multiple timeframes or features in the timeline of Covid-19 Pandemic to get insights.
+
+## Data Description
+
+Raw data used for this analysis was in json format initially.
+There were two datasets: -
+
+Dataset - 1: -
+https://data.covid19india.org/v4/min/data.min.json
+
+DataSet - 2: -
+https://data.covid19india.org/v4/min/timeseries.min.json
+
+In these datasets there were features like states, tested, positive cases, revived, deaths and date.
+
+## Data Cleaning/Preprocessing
+
+1. Used Python and its powerful libraries like - Pandas, Numpy, requests, json, etc to extract data from json formnat into csv files.
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/b46dbd41-6b33-44b1-947a-a153787fb263)
+
+2. Saved files in csv format for further analysis and report generation.
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/47cdfe1c-3356-49d8-a0d1-bb6a03bbae83)
+
+3. Conducted detailed analysis on MySQL Workbench.
+
+4. Loaded final data into Excel and created an interactive Excel Dashboard with the help of pivot tables, various excel formulas, slicers, themes, charts, formatting, etc
+
+## Interactive Excel Dashboard
 
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/90475c52-681f-4981-a9b7-48856eedc76f)
 
@@ -12,39 +41,21 @@ Dashboards -
 
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/2763a25e-c6bd-4246-8e61-06cf05981ac8)
 
-Two Covid Datasets (JSON format) were used to extract data.
+## Insights
 
-Dataset - 1: -
+India experienced a significant number of COVID-19 cases, making it one of the countries with the highest case counts in the world.
+The number of COVID-19-related deaths in India was also substantial.
+Several variants of the virus that causes COVID-19, including the Delta variant, were identified in India.
+The Delta variant was associated with increased transmissibility and raised concerns worldwide.
+India implemented various lockdowns and restrictions at different times to control the spread of the virus.
+These measures had economic and social impacts but were considered necessary to curb the spread of the virus.
+Widespread testing and contact tracing efforts were undertaken to identify and isolate cases.
+Testing centers and mobile testing units were set up across the country.
+Public awareness campaigns were launched to educate people about COVID-19 prevention measures, including mask-wearing and hand hygiene.
+India faced unique challenges in rural areas, including limited healthcare infrastructure and vaccine distribution difficulties.
+India received international assistance, including medical supplies and vaccines, as part of global efforts to combat the pandemic.
 
-https://data.covid19india.org/v4/min/data.min.json
-
-DataSet - 2: -
-
-https://data.covid19india.org/v4/min/timeseries.min.json
-
-1. I used Python to extract the data and convert it into csv format from the json files.
-
-Used Python Libraries: - Pandas, Requests, Numpy, and JSON
-
-PFA related file of data extraction: - (“Covid_Project_json_to_csv.ipynb”)
-
-Extracted and cleaned multiple tables are stored in “Cleaned Extracted Data” folder.
-
-2. Used SQL and Excel to get insights from those tables. “Covid_Project.sql” file contains all sql 
-
-queries used to derive insights. 
-
-3. Also used some statistics for getting some statistical insights like correlations, rates of deaths, 
-
-Etc. This part was done in Excel. 
-
-4. “Project_dashboard.xlsx” file contains the summarised Dashboard. There are three data sheets - DATA 1, DATA 2, and DATA 3 in this excel file which are source data to create dashboards and there are multiple 
-
-dashboards in this file which are interactive. 
-
-5. "Project_Presentation.pptx" is the final presentation for this preject which concludes all insides derived after analyzing this data.
-
-Tools Used: - 
+## Tools Used
 
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/66ef775d-9f43-4ea1-b519-e8fd98f19ae4)
 
