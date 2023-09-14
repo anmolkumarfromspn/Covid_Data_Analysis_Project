@@ -12,8 +12,12 @@ There were two datasets: -
 Dataset - 1: -
 https://data.covid19india.org/v4/min/data.min.json
 
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/a286e424-3d4d-4b28-bb31-181edfa20ba8)
+
 DataSet - 2: -
 https://data.covid19india.org/v4/min/timeseries.min.json
+
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/50649c63-8f57-4bd8-bb1f-65edaeb6ef1c)
 
 In these datasets there were features like states, tested, positive cases, revived, deaths and date.
 
