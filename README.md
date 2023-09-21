@@ -1,5 +1,9 @@
 # Covid_Data_Analysis_Project (Excel Dashboard)
 
+## Introduction
+
+In response to the global COVID-19 pandemic, I have developed a dynamic Excel dashboard that serves as a powerful tool for data analysis and visualization. This project offers an interactive and visually appealing platform for users to explore and understand the pandemic's impact. Through slicers, users can filter data by region, time period, and key metrics, allowing for a personalized examination of COVID-19 data. The dashboard incorporates various charts, including line charts, bar graphs, and pie charts, to present trends, distribution, and comparisons, facilitating a comprehensive view of the pandemic's evolving nature.
+
 ## Project Objective
 
 The objective of this Excel dashboard project is to perform comprehensive COVID-19 data analysis and provide meaningful insights through visualizations with the help of an interactive Excel Dashboard into the pandemic's impact. Excel dashboard must contain slicers and visually appealing charts or tables with appropriate KPIs using which user can interact with multiple timeframes or features in the timeline of Covid-19 Pandemic to get insights.
