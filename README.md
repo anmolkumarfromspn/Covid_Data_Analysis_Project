@@ -33,6 +33,9 @@ In these datasets there were features like states, tested, positive cases, reviv
 
 3. Conducted detailed analysis on MySQL Workbench.
 
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/7bf97282-2d90-4db5-af16-d4519247fbd3)
+![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/26b7e505-002e-4bdc-959b-494af577b096)
+
 4. Loaded final data into Excel and created an interactive Excel Dashboard with the help of pivot tables, various excel formulas, slicers, themes, charts, formatting, etc
 
 ## Interactive Excel Dashboard
