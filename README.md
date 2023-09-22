@@ -45,13 +45,7 @@ In these datasets there were features like states, tested, positive cases, reviv
 ## Interactive Excel Dashboard
 
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/90475c52-681f-4981-a9b7-48856eedc76f)
-
-
-
-
-https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/21459575-042f-47ea-ba0c-95909b4dc872
-
-
+<iframe src="https://www.veed.io/embed/90cede98-064a-4a52-aff7-3f64f71c0db1" width="744" height="504" frameborder="0" title="video1791503164" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/847bf0e0-e4c5-4b40-8cc5-1412cebe47ad)
 
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/d89c2a0f-c0fe-4a29-9e1c-76defc3444d5)
