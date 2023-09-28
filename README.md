@@ -24,6 +24,7 @@ https://data.covid19india.org/v4/min/timeseries.min.json
 ![image](https://github.com/anmolkumarfromspn/Covid_Data_Analysis_Project/assets/128449996/50649c63-8f57-4bd8-bb1f-65edaeb6ef1c)
 
 In these datasets there were features like states, tested, positive cases, revived, deaths and date.
+The dataset also includes the 7 day moving average of total number of tested, positive cases, revived, deaths.
 
 ## Data Cleaning/Preprocessing
 
